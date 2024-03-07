@@ -1,0 +1,17 @@
+body{
+    background-color:#fc5c5c ;
+    margin:0%;/*Espaço externo da página*/
+    padding:0%;/*Espaço interno da página*/
+}
+
+.inicial{
+    background-color: rgb(173, 173, 173);
+    width: 25%;
+    height: 25%;
+}
+
+#imagemInicial{
+    background-color: aliceblue;
+    width: 100%;
+    padding: 5% 10% 5% 10%;
+}
